@@ -1,0 +1,21 @@
+# Build / IDE artifacts
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.bak
+*.log
+
+# Arduino / PlatformIO
+.pio/
+.piolibdeps/
+.pioenvs/
+.pio/build/
+.pio/libdeps/
+
+# Mac folder metadata
+*.Trash
+
+# Word processors / temporary
+~$*.docx
+*.tmp
